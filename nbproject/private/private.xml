@@ -2,20 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/Utils/FileDelete.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/appstoretrial/Configuration.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/appstoretrial/LocalConfig.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/appstoretrial/LoadingFrame.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/update/UpdateApp.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/installation/InstallApp.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/update/IUpdateCommunicator.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/uninstal/Uninstaller.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/appstoretrial/AppStoreFrame.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/gui/AppTemplateCard.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/launch/Launcher.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/appstoretrial/AppStoreTrial.java</file>
-            <file>file:/E:/project%20work/java/project%20source%20code/new/AppStoreTrial/src/appstoretrial/JSONManager.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
